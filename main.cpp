@@ -6,4 +6,6 @@ int main(int argc, char** argv) {
 	int liczba = 55
 	int 
 	return 0;
+	sfsf
+	sfaf
 }
